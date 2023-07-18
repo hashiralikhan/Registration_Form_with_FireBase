@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058497879555",
+    "project_id": "formregistration-50122",
+    "storage_bucket": "formregistration-50122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058497879555:android:8f4d92335f5d663e13b836",
+        "android_client_info": {
+          "package_name": "com.example.formregidtration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058497879555-1ta6vbqtcgmp4ivibqscvr5lde2qpmd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfE6MdbqvR1rsGJrToSDHWs_T0IujDw6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058497879555-1ta6vbqtcgmp4ivibqscvr5lde2qpmd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
